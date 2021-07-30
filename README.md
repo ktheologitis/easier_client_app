@@ -1,4 +1,4 @@
-<h1 align="center">Easier Platform - (Client's web application)</h1>
+<h1 align="center">Easier Platform - (Client's mobile application)</h1>
 
 ### <ins>Description</ins>
 Easier is a Digital Platform that aspires to enhance information/sharing between mental-health professionals and their clients.
