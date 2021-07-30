@@ -1,6 +1,6 @@
 <h1 align="center">Easier Platform - (Client's web application)</h1>
 
-### Description
+### <ins>Description</ins>
 Easier is a Digital Platform that aspires to enhance information/sharing between mental-health professionals and their clients.
 This by mainly addressing problems on the commintment of clients in therapy-homework. 
 
